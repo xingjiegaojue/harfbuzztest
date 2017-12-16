@@ -20,7 +20,7 @@ win32: DEFINES += HB_NO_WIN1256
 
 INCLUDEPATH += $$PWD/include
 INCLUDEPATH += $$PWD/src
-INCLUDEPATH += ../freetype/inc \
+INCLUDEPATH += ../freetype/include \
 
 include($$PWD/harfbuzz-ng-external/harfbuzz-ng-external.pri)
 

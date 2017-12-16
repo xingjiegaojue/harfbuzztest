@@ -1,6 +1,6 @@
 include( ../shared_app.pri )
 
-INCLUDEPATH += ../freetype/inc \
+INCLUDEPATH += ../freetype/include \
 TEMPLATE = app
 TARGET = harfbuzztest
 

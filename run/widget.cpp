@@ -17,7 +17,7 @@ static const char *fileName = "/sdcard/harfbuzztest/arial.ttf";
 #endif // _ANDROID_PLATFORM
 
 #ifdef _WINDOWS_PLATFORM
-static const char *fileName = "G:/Qt/harfbuzztest/run/arial.ttf";
+static const char *fileName = "C:/Windows/Fonts/arial.ttf";
 #endif // _WINDOWS_PLATFORM
 
 static const char *textString = "شلاؤيثبل";
